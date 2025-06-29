@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstdlib>//rasgele sayı üretmek için
-#include <ostream>
 
 /*
  Proje adı: Sayı tahmin oyunu
