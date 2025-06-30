@@ -37,7 +37,7 @@ void findLargestfour(int*arr, int size){
             largest[3]=current;
         }
     }
-        std::cout<< "the largest 4 numbers: ";
+        std::cout<< "The largest 4 numbers: ";
         for (int i = 0; i<4; i++)
         {
             std::cout << largest[i] <<"  ";
